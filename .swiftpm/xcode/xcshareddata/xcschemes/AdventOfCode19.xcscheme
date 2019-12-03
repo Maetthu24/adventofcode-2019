@@ -80,7 +80,7 @@
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = "/Users/felix/projects/advent-of-code-19/Inputs"
+            argument = "/Users/felix/projects/AdventOfCode-2019/Inputs"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
