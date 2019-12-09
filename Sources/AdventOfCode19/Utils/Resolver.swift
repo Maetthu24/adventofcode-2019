@@ -27,6 +27,7 @@ struct Resolver {
         6: Day6.self,
         7: Day7.self,
         8: Day8.self,
+        9: Day9.self,
     ]
     
     let day: Int
